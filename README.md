@@ -6,7 +6,7 @@ This project is an example of how to render a child application within an iframe
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Tech Stack](tech-stack)
+- [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
