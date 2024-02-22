@@ -1,0 +1,7 @@
+.iframeContainer {
+    width: 100vw;
+}
+iframe {
+    width: 100vw;
+    height: 150px;
+}

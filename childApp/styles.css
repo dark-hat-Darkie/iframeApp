@@ -1,0 +1,48 @@
+.input-group {
+    color: white;
+    height: 200px;
+    text-align: center;
+    background: rgb(133,13,143);
+    background: linear-gradient(120deg, rgba(133,13,143,1) 0%, rgba(23,93,189,1) 53%, rgba(0,255,166,1) 100%);
+}
+
+.input-group > span {
+    cursor: pointer;
+}
+
+.text-input > span {
+    margin-left: -30px;
+}
+
+.select-input > span {
+    margin-left: 10px;
+}
+
+input, select {
+    margin-top: 90px;
+    background-color: transparent;
+    border: 1px dotted purple;
+    padding: 7px 10px;
+    padding-right: 30px;
+    color: white;
+}
+
+input[type=submit] {
+    padding: 7px 10px;
+    cursor: pointer;
+}
+select option {
+    background-color: #4444;
+}
+
+input:active, input:focus {
+    outline: none;
+}
+input::placeholder {
+    color: rgb(186, 185, 185);
+}
+label {
+    margin-top: -30px;
+    color: white;
+    margin-right: 5px;
+}
