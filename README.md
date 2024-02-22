@@ -21,6 +21,14 @@ In web development, there are scenarios where you may need to embed one applicat
 - Dynamically render input fields based on the provided data.
 - Update the parent application with data entered in the child application.
 
+## Tech Stack
+
+This small project aims to render an app inside an iframe. For this task, using any libraries or framework would be overkill and carry a lot of unnecessary dependencies. The best approach is to use vanilla js and plain css.
+
+- Vanilla Javascript
+- CSS (Basic, no SASS / SCSS)
+- HTML
+
 ## Installation
 
 To run this project locally, follow these steps:
